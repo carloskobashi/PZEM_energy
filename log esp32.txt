@@ -1,0 +1,4221 @@
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09C2
+R01 = 098F
+R02 = 0994
+R03 = 04C6
+R04 = 0479
+R05 = 048E
+R06 = 175E
+R07 = 175F
+R08 = 175F
+R09 = 2E6D
+R10 = 5DE6
+R11 = 6B66
+R12 = 0871
+R13 = 3900
+R14 = 18FB
+R15 = 0000
+R16 = 1A91
+R17 = 0000
+R18 = 12E0
+R19 = 0000
+R20 = 8E14
+R21 = FFFF
+R22 = 96E9
+R23 = FFFF
+R24 = 92F9
+R25 = FFFF
+R26 = 74DA
+R27 = 0000
+R28 = 6C95
+R29 = 0000
+R30 = 6EDD
+R31 = 0000
+R32 = 3437
+R33 = 0000
+R34 = B1DB
+R35 = FFFE
+R36 = 5241
+R37 = 0001
+R38 = 1518
+R39 = 110F
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1850
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FB
+R61 = 0000
+R62 = 476B
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    249.8 V
+VB :    244.7 V
+VC :    245.2 V
+
+------------------ CORRIENTES ------------------
+IA :   12.220 A
+IB :   11.450 A
+IC :   11.660 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.82 Hz
+FB :    59.83 Hz
+FC :    59.83 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   118.85 °
+VC :   240.38 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   274.94 °
+IB :    21.61 °
+IC :   145.92 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    639.5 W
+PB :    680.1 W
+PC :    483.2 W
+PT :   1336.7 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2916.4 var
+QB :  -2690.3 var
+QC :  -2791.1 var
+QT :  -8554.1 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2991.4 VA
+SB :   2779.7 VA
+SC :   2838.1 VA
+ST :   8659.3 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.24
+PFC :     0.17
+PFT :     0.15
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.4 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.1 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.3 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 246.6 V
+Corriente Promedio   : 11.78 A
+Potencia Total       : 1802.8 W
+FP Promedio          : 0.207
+Desbalance Voltaje   : 1.31 %
+Desbalance Corriente : 3.76 %
+Carga Motor          : 22.6 %
+Arranques            : 1
+Horas Operacion      : 0.03 h
+Health Index         : 91.7 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.87 A
+P promedio 1 min : 659.8 W
+FP promedio 1 min: 0.204
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 246.3 V
+Max Corriente : 11.90 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.00 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09C4
+R01 = 0993
+R02 = 0997
+R03 = 04CB
+R04 = 0483
+R05 = 049D
+R06 = 1764
+R07 = 175F
+R08 = 175F
+R09 = 2E76
+R10 = 5DF1
+R11 = 6A10
+R12 = 0B28
+R13 = 3C6B
+R14 = 188C
+R15 = 0000
+R16 = 19C0
+R17 = 0000
+R18 = 120C
+R19 = 0000
+R20 = 8D37
+R21 = FFFF
+R22 = 9647
+R23 = FFFF
+R24 = 91E9
+R25 = FFFF
+R26 = 75B4
+R27 = 0000
+R28 = 6D26
+R29 = 0000
+R30 = 6FE8
+R31 = 0000
+R32 = 382E
+R33 = 0000
+R34 = A3E3
+R35 = FFFE
+R36 = 60D9
+R37 = 0001
+R38 = 1417
+R39 = 100F
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1850
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FB
+R61 = 0000
+R62 = 476B
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    250.0 V
+VB :    245.1 V
+VC :    245.5 V
+
+------------------ CORRIENTES ------------------
+IA :   12.270 A
+IB :   11.550 A
+IC :   11.810 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.88 Hz
+FB :    59.83 Hz
+FC :    59.83 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   118.94 °
+VC :   240.49 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   271.52 °
+IB :    28.56 °
+IC :   154.67 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    628.4 W
+PB :    659.2 W
+PC :    462.0 W
+PT :   1438.2 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2938.5 var
+QB :  -2706.5 var
+QC :  -2818.3 var
+QT :  -8911.7 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3013.2 VA
+SB :   2794.2 VA
+SC :   2864.8 VA
+ST :   9032.9 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.20
+PFB :     0.23
+PFC :     0.16
+PFT :     0.15
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.4 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.1 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.3 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 246.9 V
+Corriente Promedio   : 11.88 A
+Potencia Total       : 1749.6 W
+FP Promedio          : 0.197
+Desbalance Voltaje   : 1.27 %
+Desbalance Corriente : 3.31 %
+Carga Motor          : 22.8 %
+Arranques            : 1
+Horas Operacion      : 0.03 h
+Health Index         : 92.5 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.89 A
+P promedio 1 min : 653.8 W
+FP promedio 1 min: 0.203
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 246.3 V
+Max Corriente : 11.90 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09BC
+R01 = 098D
+R02 = 0991
+R03 = 04A3
+R04 = 046D
+R05 = 0486
+R06 = 175A
+R07 = 175F
+R08 = 1764
+R09 = 2E79
+R10 = 5DDD
+R11 = 68E3
+R12 = 0281
+R13 = 41EE
+R14 = 1619
+R15 = 0000
+R16 = 1775
+R17 = 0000
+R18 = 100A
+R19 = 0000
+R20 = 8ECB
+R21 = FFFF
+R22 = 97A3
+R23 = FFFF
+R24 = 9383
+R25 = FFFF
+R26 = 737B
+R27 = 0000
+R28 = 6B16
+R29 = 0000
+R30 = 6DD3
+R31 = 0000
+R32 = 5C0A
+R33 = 0000
+R34 = D1F5
+R35 = FFFE
+R36 = 3C0D
+R37 = 0001
+R38 = 1315
+R39 = 0E1D
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1850
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476B
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    249.2 V
+VB :    244.5 V
+VC :    244.9 V
+
+------------------ CORRIENTES ------------------
+IA :   11.870 A
+IB :   11.330 A
+IC :   11.580 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.78 Hz
+FB :    59.83 Hz
+FC :    59.88 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   118.97 °
+VC :   240.29 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   268.51 °
+IB :     6.41 °
+IC :   168.78 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    565.7 W
+PB :    600.5 W
+PC :    410.6 W
+PT :   2356.2 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2898.1 var
+QB :  -2671.7 var
+QC :  -2777.3 var
+QT :  -7732.3 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2956.3 VA
+SB :   2741.4 VA
+SC :   2811.5 VA
+ST :   8090.9 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.19
+PFB :     0.21
+PFC :     0.14
+PFT :     0.29
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.4 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.3 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 246.2 V
+Corriente Promedio   : 11.59 A
+Potencia Total       : 1576.8 W
+FP Promedio          : 0.180
+Desbalance Voltaje   : 1.22 %
+Desbalance Corriente : 2.39 %
+Carga Motor          : 22.3 %
+Arranques            : 1
+Horas Operacion      : 0.03 h
+Health Index         : 94.0 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.87 A
+P promedio 1 min : 639.9 W
+FP promedio 1 min: 0.201
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : -1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 246.2 V
+Max Corriente : 11.90 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09BF
+R01 = 098F
+R02 = 0993
+R03 = 04B9
+R04 = 047D
+R05 = 0492
+R06 = 1759
+R07 = 175F
+R08 = 1759
+R09 = 2E82
+R10 = 5DF3
+R11 = 6979
+R12 = 02A1
+R13 = 4652
+R14 = 17C8
+R15 = 0000
+R16 = 1981
+R17 = 0000
+R18 = 1194
+R19 = 0000
+R20 = 8D39
+R21 = FFFF
+R22 = 9662
+R23 = FFFF
+R24 = 9272
+R25 = FFFF
+R26 = 7552
+R27 = 0000
+R28 = 6CC3
+R29 = 0000
+R30 = 6F1A
+R31 = 0000
+R32 = 2DA4
+R33 = 0000
+R34 = A0E2
+R35 = FFFE
+R36 = 6240
+R37 = 0001
+R38 = 1417
+R39 = 0F0C
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1850
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476B
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    249.5 V
+VB :    244.7 V
+VC :    245.1 V
+
+------------------ CORRIENTES ------------------
+IA :   12.090 A
+IB :   11.490 A
+IC :   11.700 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.77 Hz
+FB :    59.83 Hz
+FC :    59.77 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.06 °
+VC :   240.51 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   270.01 °
+IB :     6.73 °
+IC :   180.02 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    608.8 W
+PB :    652.9 W
+PC :    450.0 W
+PT :   1168.4 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2938.3 var
+QB :  -2703.8 var
+QC :  -2804.6 var
+QT :  -8988.6 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3003.4 VA
+SB :   2784.3 VA
+SC :   2844.2 VA
+ST :   9068.8 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.20
+PFB :     0.23
+PFC :     0.15
+PFT :     0.12
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.4 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.3 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 246.4 V
+Corriente Promedio   : 11.76 A
+Potencia Total       : 1711.7 W
+FP Promedio          : 0.193
+Desbalance Voltaje   : 1.24 %
+Desbalance Corriente : 2.81 %
+Carga Motor          : 22.6 %
+Arranques            : 1
+Horas Operacion      : 0.03 h
+Health Index         : 93.3 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.88 A
+P promedio 1 min : 643.3 W
+FP promedio 1 min: 0.201
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 246.2 V
+Max Corriente : 11.90 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09B8
+R01 = 0986
+R02 = 098B
+R03 = 04B4
+R04 = 0479
+R05 = 0488
+R06 = 1764
+R07 = 1758
+R08 = 1759
+R09 = 2E67
+R10 = 5E23
+R11 = 5F59
+R12 = 03E1
+R13 = 3454
+R14 = 16F7
+R15 = 0000
+R16 = 1902
+R17 = 0000
+R18 = 1169
+R19 = 0000
+R20 = 8E6E
+R21 = FFFF
+R22 = 96F6
+R23 = FFFF
+R24 = 93B4
+R25 = FFFF
+R26 = 73EC
+R27 = 0000
+R28 = 6C06
+R29 = 0000
+R30 = 6DCA
+R31 = 0000
+R32 = 4FE3
+R33 = 0000
+R34 = CB05
+R35 = FFFE
+R36 = 3F44
+R37 = 0001
+R38 = 1317
+R39 = 0F19
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1850
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476B
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    248.8 V
+VB :    243.8 V
+VC :    244.3 V
+
+------------------ CORRIENTES ------------------
+IA :   12.040 A
+IB :   11.450 A
+IC :   11.600 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.88 Hz
+FB :    59.76 Hz
+FC :    59.77 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   118.79 °
+VC :   240.99 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   244.09 °
+IB :     9.93 °
+IC :   133.96 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    587.9 W
+PB :    640.2 W
+PC :    445.7 W
+PT :   2045.1 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2907.4 var
+QB :  -2689.0 var
+QC :  -2772.4 var
+QT :  -7909.9 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2967.6 VA
+SB :   2765.4 VA
+SC :   2810.6 VA
+ST :   8173.2 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.19
+PFB :     0.23
+PFC :     0.15
+PFT :     0.25
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.4 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.3 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 245.6 V
+Corriente Promedio   : 11.70 A
+Potencia Total       : 1673.8 W
+FP Promedio          : 0.190
+Desbalance Voltaje   : 1.29 %
+Desbalance Corriente : 2.94 %
+Carga Motor          : 22.5 %
+Arranques            : 1
+Horas Operacion      : 0.03 h
+Health Index         : 93.0 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.88 A
+P promedio 1 min : 638.4 W
+FP promedio 1 min: 0.201
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : -1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 11.90 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09CB
+R01 = 0999
+R02 = 099D
+R03 = 04C5
+R04 = 0483
+R05 = 0495
+R06 = 1759
+R07 = 175F
+R08 = 1764
+R09 = 2E84
+R10 = 5DFC
+R11 = 719C
+R12 = 15A1
+R13 = 4406
+R14 = 15EB
+R15 = 0000
+R16 = 180B
+R17 = 0000
+R18 = 1041
+R19 = 0000
+R20 = 8FAD
+R21 = FFFF
+R22 = 9600
+R23 = FFFF
+R24 = 9251
+R25 = FFFF
+R26 = 75D5
+R27 = 0000
+R28 = 6D94
+R29 = 0000
+R30 = 6F91
+R31 = 0000
+R32 = 5E56
+R33 = 0000
+R34 = B1BB
+R35 = FFFE
+R36 = 2B9A
+R37 = 0001
+R38 = 1215
+R39 = 0E1F
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    250.7 V
+VB :    245.7 V
+VC :    246.1 V
+
+------------------ CORRIENTES ------------------
+IA :   12.210 A
+IB :   11.550 A
+IC :   11.730 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.77 Hz
+FB :    59.83 Hz
+FC :    59.88 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.08 °
+VC :   240.60 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   290.84 °
+IB :    55.37 °
+IC :   174.14 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    561.1 W
+PB :    615.5 W
+PC :    416.1 W
+PT :   2415.0 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2875.5 var
+QB :  -2713.6 var
+QC :  -2807.9 var
+QT :  -8557.3 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3016.5 VA
+SB :   2805.2 VA
+SC :   2856.1 VA
+ST :   7669.8 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.18
+PFB :     0.21
+PFC :     0.14
+PFT :     0.31
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.5 V
+Corriente Promedio   : 11.83 A
+Potencia Total       : 1592.7 W
+FP Promedio          : 0.177
+Desbalance Voltaje   : 1.29 %
+Desbalance Corriente : 3.21 %
+Carga Motor          : 22.7 %
+Arranques            : 1
+Horas Operacion      : 0.03 h
+Health Index         : 92.6 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.89 A
+P promedio 1 min : 630.9 W
+FP promedio 1 min: 0.200
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : -1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 11.90 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09CE
+R01 = 099D
+R02 = 09A1
+R03 = 04CF
+R04 = 0489
+R05 = 04A2
+R06 = 175A
+R07 = 1765
+R08 = 175F
+R09 = 2E7D
+R10 = 5DED
+R11 = 7AA4
+R12 = 1C36
+R13 = 4A30
+R14 = 19A1
+R15 = 0000
+R16 = 1B15
+R17 = 0000
+R18 = 12C3
+R19 = 0000
+R20 = 8C0B
+R21 = FFFF
+R22 = 95F0
+R23 = FFFF
+R24 = 914B
+R25 = FFFF
+R26 = 773B
+R27 = 0000
+R28 = 6DFD
+R29 = 0000
+R30 = 70B8
+R31 = 0000
+R32 = 3FBF
+R33 = 0000
+R34 = E2A5
+R35 = FFFE
+R36 = 6F52
+R37 = 0001
+R38 = 1518
+R39 = 1011
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    251.0 V
+VB :    246.1 V
+VC :    246.5 V
+
+------------------ CORRIENTES ------------------
+IA :   12.310 A
+IB :   11.610 A
+IC :   11.860 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.78 Hz
+FB :    59.89 Hz
+FC :    59.83 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.01 °
+VC :   240.45 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   313.96 °
+IB :    72.22 °
+IC :   189.92 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    656.1 W
+PB :    693.3 W
+PC :    480.3 W
+PT :   1631.9 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2968.5 var
+QB :  -2715.2 var
+QC :  -2834.1 var
+QT :  -7305.1 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3052.3 VA
+SB :   2815.7 VA
+SC :   2885.6 VA
+ST :   9403.4 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.24
+PFC :     0.16
+PFT :     0.17
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.9 V
+Corriente Promedio   : 11.93 A
+Potencia Total       : 1829.7 W
+FP Promedio          : 0.203
+Desbalance Voltaje   : 1.26 %
+Desbalance Corriente : 3.21 %
+Carga Motor          : 22.9 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 92.7 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.90 A
+P promedio 1 min : 639.9 W
+FP promedio 1 min: 0.201
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 11.93 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09CC
+R01 = 099B
+R02 = 09A0
+R03 = 04BA
+R04 = 0477
+R05 = 0492
+R06 = 1766
+R07 = 175B
+R08 = 1760
+R09 = 2EA2
+R10 = 5DE8
+R11 = 727C
+R12 = 1327
+R13 = 3D86
+R14 = 19A7
+R15 = 0000
+R16 = 1B0F
+R17 = 0000
+R18 = 1290
+R19 = 0000
+R20 = 8C96
+R21 = FFFF
+R22 = 96B0
+R23 = FFFF
+R24 = 91E1
+R25 = FFFF
+R26 = 7657
+R27 = 0000
+R28 = 6CD7
+R29 = 0000
+R30 = 6FC8
+R31 = 0000
+R32 = 3D77
+R33 = 0000
+R34 = 97FB
+R35 = FFFE
+R36 = 56DF
+R37 = 0001
+R38 = 1518
+R39 = 1011
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BE
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0790
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    250.8 V
+VB :    245.9 V
+VC :    246.4 V
+
+------------------ CORRIENTES ------------------
+IA :   12.100 A
+IB :   11.430 A
+IC :   11.700 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.90 Hz
+FB :    59.79 Hz
+FC :    59.84 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.38 °
+VC :   240.40 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   293.08 °
+IB :    49.03 °
+IC :   157.50 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    656.7 W
+PB :    692.7 W
+PC :    475.2 W
+PT :   1573.5 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2954.6 var
+QB :  -2696.0 var
+QC :  -2819.1 var
+QT :  -9216.5 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3029.5 VA
+SB :   2786.3 VA
+SC :   2861.6 VA
+ST :   8777.5 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.24
+PFC :     0.16
+PFT :     0.17
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.6 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.4 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.7 V
+Corriente Promedio   : 11.74 A
+Potencia Total       : 1824.6 W
+FP Promedio          : 0.203
+Desbalance Voltaje   : 1.25 %
+Desbalance Corriente : 3.04 %
+Carga Motor          : 22.6 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 92.9 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.90 A
+P promedio 1 min : 638.9 W
+FP promedio 1 min: 0.201
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 11.93 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09C0
+R01 = 098F
+R02 = 0993
+R03 = 04B8
+R04 = 0488
+R05 = 049E
+R06 = 175A
+R07 = 1761
+R08 = 1765
+R09 = 2EB7
+R10 = 5DEF
+R11 = 7BCD
+R12 = 1BEE
+R13 = 4196
+R14 = 190F
+R15 = 0000
+R16 = 1A62
+R17 = 0000
+R18 = 133B
+R19 = 0000
+R20 = 8CDD
+R21 = FFFF
+R22 = 9555
+R23 = FFFF
+R24 = 9178
+R25 = FFFF
+R26 = 75E2
+R27 = 0000
+R28 = 6DEB
+R29 = 0000
+R30 = 7046
+R31 = 0000
+R32 = 4276
+R33 = 0000
+R34 = B550
+R35 = FFFE
+R36 = 6853
+R37 = 0001
+R38 = 1518
+R39 = 1112
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FC
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    249.6 V
+VB :    244.7 V
+VC :    245.1 V
+
+------------------ CORRIENTES ------------------
+IA :   12.080 A
+IB :   11.600 A
+IC :   11.820 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.78 Hz
+FB :    59.85 Hz
+FC :    59.89 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.59 °
+VC :   240.47 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   316.93 °
+IB :    71.50 °
+IC :   167.90 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    641.5 W
+PB :    675.4 W
+PC :    492.3 W
+PT :   1701.4 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2947.5 var
+QB :  -2730.7 var
+QC :  -2829.6 var
+QT :  -8465.6 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3017.8 VA
+SB :   2813.9 VA
+SC :   2874.2 VA
+ST :   9224.3 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.24
+PFC :     0.17
+PFT :     0.18
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.2 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 246.5 V
+Corriente Promedio   : 11.83 A
+Potencia Total       : 1809.2 W
+FP Promedio          : 0.207
+Desbalance Voltaje   : 1.27 %
+Desbalance Corriente : 2.08 %
+Carga Motor          : 22.8 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 94.3 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.91 A
+P promedio 1 min : 637.4 W
+FP promedio 1 min: 0.202
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 11.93 A
+Max Potencia : 1877.5 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09CE
+R01 = 099B
+R02 = 099E
+R03 = 04C3
+R04 = 0483
+R05 = 0494
+R06 = 175F
+R07 = 1763
+R08 = 1759
+R09 = 2E98
+R10 = 5E06
+R11 = 7376
+R12 = 10D7
+R13 = 413B
+R14 = 19EA
+R15 = 0000
+R16 = 1BD3
+R17 = 0000
+R18 = 1415
+R19 = 0000
+R20 = 8CA4
+R21 = FFFF
+R22 = 958B
+R23 = FFFF
+R24 = 91F0
+R25 = FFFF
+R26 = 7645
+R27 = 0000
+R28 = 6E0C
+R29 = 0000
+R30 = 6FEF
+R31 = 0000
+R32 = 4F64
+R33 = 0000
+R34 = DAF5
+R35 = FFFE
+R36 = 3D40
+R37 = 0001
+R38 = 1519
+R39 = 1119
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1724
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    251.0 V
+VB :    245.9 V
+VC :    246.2 V
+
+------------------ CORRIENTES ------------------
+IA :   12.190 A
+IB :   11.550 A
+IC :   11.720 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.83 Hz
+FB :    59.87 Hz
+FC :    59.77 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.28 °
+VC :   240.70 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   295.58 °
+IB :    43.11 °
+IC :   166.99 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    663.4 W
+PB :    712.3 W
+PC :    514.1 W
+PT :   2032.4 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2953.2 var
+QB :  -2725.3 var
+QC :  -2817.6 var
+QT :  -7501.9 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3027.7 VA
+SB :   2817.2 VA
+SC :   2865.5 VA
+ST :   8121.6 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.25
+PFC :     0.17
+PFT :     0.25
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.4 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.7 V
+Corriente Promedio   : 11.82 A
+Potencia Total       : 1889.8 W
+FP Promedio          : 0.210
+Desbalance Voltaje   : 1.33 %
+Desbalance Corriente : 3.13 %
+Carga Motor          : 22.7 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 92.6 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.91 A
+P promedio 1 min : 640.4 W
+FP promedio 1 min: 0.202
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 11.93 A
+Max Potencia : 1889.8 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09D1
+R01 = 09A0
+R02 = 09A3
+R03 = 04E6
+R04 = 0489
+R05 = 04A8
+R06 = 176B
+R07 = 175F
+R08 = 1760
+R09 = 2E8E
+R10 = 5E02
+R11 = 7B8B
+R12 = 1815
+R13 = 498A
+R14 = 1B4E
+R15 = 0000
+R16 = 1C1E
+R17 = 0000
+R18 = 13E0
+R19 = 0000
+R20 = 8D21
+R21 = FFFF
+R22 = 9721
+R23 = FFFF
+R24 = 91DD
+R25 = FFFF
+R26 = 772E
+R27 = 0000
+R28 = 6DC5
+R29 = 0000
+R30 = 70EA
+R31 = 0000
+R32 = 11EA
+R33 = 0000
+R34 = C46B
+R35 = FFFE
+R36 = 7DD1
+R37 = 0001
+R38 = 1619
+R39 = 1104
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    251.3 V
+VB :    246.4 V
+VC :    246.7 V
+
+------------------ CORRIENTES ------------------
+IA :   12.540 A
+IB :   11.610 A
+IC :   11.920 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.95 Hz
+FB :    59.83 Hz
+FC :    59.84 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.18 °
+VC :   240.66 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   316.27 °
+IB :    61.65 °
+IC :   188.26 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    699.0 W
+PB :    719.8 W
+PC :    508.8 W
+PT :    458.6 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2940.7 var
+QB :  -2684.7 var
+QC :  -2819.5 var
+QT :  -8078.9 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3051.0 VA
+SB :   2810.1 VA
+SC :   2890.6 VA
+ST :   9774.5 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.22
+PFB :     0.25
+PFC :     0.17
+PFT :     0.04
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 248.1 V
+Corriente Promedio   : 12.02 A
+Potencia Total       : 1927.6 W
+FP Promedio          : 0.213
+Desbalance Voltaje   : 1.28 %
+Desbalance Corriente : 4.30 %
+Carga Motor          : 23.1 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 91.0 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.93 A
+P promedio 1 min : 642.1 W
+FP promedio 1 min: 0.203
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1927.6 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09D6
+R01 = 09A6
+R02 = 09A7
+R03 = 04BD
+R04 = 047D
+R05 = 0495
+R06 = 1760
+R07 = 175A
+R08 = 1760
+R09 = 2E7D
+R10 = 5DDF
+R11 = 78DD
+R12 = 1B33
+R13 = 48E5
+R14 = 1883
+R15 = 0000
+R16 = 1992
+R17 = 0000
+R18 = 12CC
+R19 = 0000
+R20 = 8E17
+R21 = FFFF
+R22 = 9642
+R23 = FFFF
+R24 = 9239
+R25 = FFFF
+R26 = 750F
+R27 = 0000
+R28 = 6D5E
+R29 = 0000
+R30 = 6FD9
+R31 = 0000
+R32 = 52FC
+R33 = 0000
+R34 = BC86
+R35 = FFFE
+R36 = 1EA9
+R37 = 0001
+R38 = 1417
+R39 = 101C
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 177F
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    251.8 V
+VB :    247.0 V
+VC :    247.1 V
+
+------------------ CORRIENTES ------------------
+IA :   12.130 A
+IB :   11.490 A
+IC :   11.730 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.84 Hz
+FB :    59.78 Hz
+FC :    59.84 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.01 °
+VC :   240.31 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   309.41 °
+IB :    69.63 °
+IC :   186.61 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    627.5 W
+PB :    654.6 W
+PC :    481.2 W
+PT :   2124.4 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2916.1 var
+QB :  -2707.0 var
+QC :  -2810.3 var
+QT :  -8281.0 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2996.7 VA
+SB :   2799.8 VA
+SC :   2863.3 VA
+ST :   7338.5 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.20
+PFB :     0.23
+PFC :     0.16
+PFT :     0.28
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.5 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 248.6 V
+Corriente Promedio   : 11.78 A
+Potencia Total       : 1763.3 W
+FP Promedio          : 0.197
+Desbalance Voltaje   : 1.27 %
+Desbalance Corriente : 2.94 %
+Carga Motor          : 22.7 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 93.0 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.92 A
+P promedio 1 min : 635.1 W
+FP promedio 1 min: 0.202
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1927.6 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09D2
+R01 = 09A4
+R02 = 09A6
+R03 = 049B
+R04 = 0473
+R05 = 0486
+R06 = 1759
+R07 = 1764
+R08 = 1759
+R09 = 2EA6
+R10 = 5DEE
+R11 = 70C0
+R12 = 1166
+R13 = 430E
+R14 = 18A0
+R15 = 0000
+R16 = 1A1D
+R17 = 0000
+R18 = 134A
+R19 = 0000
+R20 = 8E2A
+R21 = FFFF
+R22 = 963C
+R23 = FFFF
+R24 = 929F
+R25 = FFFF
+R26 = 74A4
+R27 = 0000
+R28 = 6D1D
+R29 = 0000
+R30 = 6F37
+R31 = 0000
+R32 = 4B7A
+R33 = 0000
+R34 = B90D
+R35 = FFFE
+R36 = 5492
+R37 = 0001
+R38 = 1517
+R39 = 1116
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476C
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    251.4 V
+VB :    246.8 V
+VC :    247.0 V
+
+------------------ CORRIENTES ------------------
+IA :   11.790 A
+IB :   11.390 A
+IC :   11.580 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.77 Hz
+FB :    59.88 Hz
+FC :    59.77 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.42 °
+VC :   240.46 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   288.64 °
+IB :    44.54 °
+IC :   171.66 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    630.4 W
+PB :    668.5 W
+PC :    493.8 W
+PT :   1932.2 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2914.2 var
+QB :  -2707.6 var
+QC :  -2800.1 var
+QT :  -8369.9 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2986.0 VA
+SB :   2793.3 VA
+SC :   2847.1 VA
+ST :   8718.6 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.23
+PFC :     0.17
+PFT :     0.22
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.4 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 248.4 V
+Corriente Promedio   : 11.59 A
+Potencia Total       : 1792.7 W
+FP Promedio          : 0.203
+Desbalance Voltaje   : 1.21 %
+Desbalance Corriente : 1.75 %
+Carga Motor          : 22.3 %
+Arranques            : 1
+Horas Operacion      : 0.04 h
+Health Index         : 95.0 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.91 A
+P promedio 1 min : 635.2 W
+FP promedio 1 min: 0.202
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1927.6 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09C6
+R01 = 0995
+R02 = 0998
+R03 = 04B0
+R04 = 0470
+R05 = 0486
+R06 = 175E
+R07 = 1764
+R08 = 1764
+R09 = 2E9A
+R10 = 5DE6
+R11 = 6F14
+R12 = 11F9
+R13 = 3FD2
+R14 = 1ACA
+R15 = 0000
+R16 = 1C02
+R17 = 0000
+R18 = 14C0
+R19 = 0000
+R20 = 8E8F
+R21 = FFFF
+R22 = 96EC
+R23 = FFFF
+R24 = 9332
+R25 = FFFF
+R26 = 73DD
+R27 = 0000
+R28 = 6C02
+R29 = 0000
+R30 = 6E4B
+R31 = 0000
+R32 = 5757
+R33 = 0000
+R34 = C258
+R35 = FFFE
+R36 = 59E7
+R37 = 0001
+R38 = 1719
+R39 = 1219
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    250.2 V
+VB :    245.3 V
+VC :    245.6 V
+
+------------------ CORRIENTES ------------------
+IA :   12.000 A
+IB :   11.360 A
+IC :   11.580 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.82 Hz
+FB :    59.88 Hz
+FC :    59.88 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.30 °
+VC :   240.38 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   284.36 °
+IB :    46.01 °
+IC :   163.38 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    685.8 W
+PB :    717.0 W
+PC :    531.2 W
+PT :   2235.9 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2904.1 var
+QB :  -2690.0 var
+QC :  -2785.4 var
+QT :  -8132.0 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2966.1 VA
+SB :   2765.0 VA
+SC :   2823.5 VA
+ST :   8855.1 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.23
+PFB :     0.25
+PFC :     0.18
+PFT :     0.25
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.0 V
+Corriente Promedio   : 11.65 A
+Potencia Total       : 1934.0 W
+FP Promedio          : 0.220
+Desbalance Voltaje   : 1.28 %
+Desbalance Corriente : 3.03 %
+Carga Motor          : 22.4 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 92.9 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.91 A
+P promedio 1 min : 640.2 W
+FP promedio 1 min: 0.204
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1934.0 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09CE
+R01 = 099E
+R02 = 09A2
+R03 = 04B8
+R04 = 0464
+R05 = 047C
+R06 = 175E
+R07 = 175E
+R08 = 1764
+R09 = 2E8C
+R10 = 5DE9
+R11 = 6A12
+R12 = 1061
+R13 = 41CF
+R14 = 1738
+R15 = 0000
+R16 = 1903
+R17 = 0000
+R18 = 1071
+R19 = 0000
+R20 = 8EC9
+R21 = FFFF
+R22 = 98AE
+R23 = FFFF
+R24 = 9444
+R25 = FFFF
+R26 = 7438
+R27 = 0000
+R28 = 6AF4
+R29 = 0000
+R30 = 6D8C
+R31 = 0000
+R32 = 3EDC
+R33 = 0000
+R34 = 82C7
+R35 = FFFE
+R36 = 4B55
+R37 = 0001
+R38 = 1317
+R39 = 0F12
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    251.0 V
+VB :    246.2 V
+VC :    246.6 V
+
+------------------ CORRIENTES ------------------
+IA :   12.080 A
+IB :   11.240 A
+IC :   11.480 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.82 Hz
+FB :    59.82 Hz
+FC :    59.88 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.16 °
+VC :   240.41 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   271.54 °
+IB :    41.93 °
+IC :   168.47 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    594.4 W
+PB :    640.3 W
+PC :    420.9 W
+PT :   1609.2 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2898.3 var
+QB :  -2645.0 var
+QC :  -2758.0 var
+QT :  -9759.3 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2975.2 VA
+SB :   2738.0 VA
+SC :   2804.4 VA
+ST :   8482.1 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.19
+PFB :     0.23
+PFC :     0.15
+PFT :     0.18
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.9 V
+Corriente Promedio   : 11.60 A
+Potencia Total       : 1655.6 W
+FP Promedio          : 0.190
+Desbalance Voltaje   : 1.24 %
+Desbalance Corriente : 4.14 %
+Carga Motor          : 22.3 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 91.3 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.91 A
+P promedio 1 min : 629.4 W
+FP promedio 1 min: 0.202
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : -1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1934.0 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09E0
+R01 = 09AD
+R02 = 09AE
+R03 = 04C4
+R04 = 0486
+R05 = 0477
+R06 = 175F
+R07 = 175F
+R08 = 1760
+R09 = 2E9D
+R10 = 5E11
+R11 = 6FBD
+R12 = 17A9
+R13 = 4A20
+R14 = 1709
+R15 = 0000
+R16 = 1BE2
+R17 = 0000
+R18 = 1394
+R19 = 0000
+R20 = 8E42
+R21 = FFFF
+R22 = 9653
+R23 = FFFF
+R24 = 95B7
+R25 = FFFF
+R26 = 74FB
+R27 = 0000
+R28 = 6E4D
+R29 = 0000
+R30 = 6CF5
+R31 = 0000
+R32 = 6BBA
+R33 = 0000
+R34 = D83B
+R35 = FFFE
+R36 = 0B15
+R37 = 0001
+R38 = 1319
+R39 = 1128
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    252.8 V
+VB :    247.7 V
+VC :    247.8 V
+
+------------------ CORRIENTES ------------------
+IA :   12.200 A
+IB :   11.580 A
+IC :   11.430 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.83 Hz
+FB :    59.83 Hz
+FC :    59.84 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.33 °
+VC :   240.81 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   286.05 °
+IB :    60.57 °
+IC :   189.76 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    589.7 W
+PB :    713.8 W
+PC :    501.2 W
+PT :   2757.8 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2911.8 var
+QB :  -2705.3 var
+QC :  -2720.9 var
+QT :  -7571.7 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2994.7 VA
+SB :   2823.7 VA
+SC :   2789.3 VA
+ST :   6837.3 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.19
+PFB :     0.25
+PFC :     0.17
+PFT :     0.40
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 249.4 V
+Corriente Promedio   : 11.74 A
+Potencia Total       : 1804.7 W
+FP Promedio          : 0.203
+Desbalance Voltaje   : 1.35 %
+Desbalance Corriente : 3.95 %
+Carga Motor          : 22.6 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 91.4 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.91 A
+P promedio 1 min : 633.3 W
+FP promedio 1 min: 0.203
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1934.0 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09C8
+R01 = 0999
+R02 = 099A
+R03 = 04AD
+R04 = 046F
+R05 = 047D
+R06 = 175F
+R07 = 1759
+R08 = 1759
+R09 = 2E86
+R10 = 5E05
+R11 = 72AC
+R12 = 15B2
+R13 = 434E
+R14 = 16F7
+R15 = 0000
+R16 = 1935
+R17 = 0000
+R18 = 11C0
+R19 = 0000
+R20 = 8F1D
+R21 = FFFF
+R22 = 976C
+R23 = FFFF
+R24 = 9462
+R25 = FFFF
+R26 = 7374
+R27 = 0000
+R28 = 6BD8
+R29 = 0000
+R30 = 6D50
+R31 = 0000
+R32 = 531B
+R33 = 0000
+R34 = D159
+R35 = FFFE
+R36 = 591E
+R37 = 0001
+R38 = 1317
+R39 = 1018
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FD
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    250.4 V
+VB :    245.7 V
+VC :    245.8 V
+
+------------------ CORRIENTES ------------------
+IA :   11.970 A
+IB :   11.350 A
+IC :   11.490 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.83 Hz
+FB :    59.77 Hz
+FC :    59.77 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.10 °
+VC :   240.69 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   293.56 °
+IB :    55.54 °
+IC :   172.30 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    587.9 W
+PB :    645.3 W
+PC :    454.4 W
+PT :   2127.5 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2889.9 var
+QB :  -2677.2 var
+QC :  -2755.0 var
+QT :  -7747.9 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2955.6 VA
+SB :   2760.8 VA
+SC :   2798.4 VA
+ST :   8835.0 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.19
+PFB :     0.23
+PFC :     0.16
+PFT :     0.24
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.3 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 247.3 V
+Corriente Promedio   : 11.60 A
+Potencia Total       : 1687.6 W
+FP Promedio          : 0.193
+Desbalance Voltaje   : 1.25 %
+Desbalance Corriente : 3.16 %
+Carga Motor          : 22.3 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 92.8 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.90 A
+P promedio 1 min : 628.2 W
+FP promedio 1 min: 0.202
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1934.0 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09DA
+R01 = 09AB
+R02 = 09AC
+R03 = 04AE
+R04 = 0472
+R05 = 0491
+R06 = 1759
+R07 = 1759
+R08 = 175F
+R09 = 2E99
+R10 = 5DF2
+R11 = 6C2F
+R12 = 0EA7
+R13 = 3DCB
+R14 = 197A
+R15 = 0000
+R16 = 19F6
+R17 = 0000
+R18 = 1323
+R19 = 0000
+R20 = 8D6A
+R21 = FFFF
+R22 = 95E2
+R23 = FFFF
+R24 = 913E
+R25 = FFFF
+R26 = 7560
+R27 = 0000
+R28 = 6D3E
+R29 = 0000
+R30 = 7067
+R31 = 0000
+R32 = 4D36
+R33 = 0000
+R34 = C8C3
+R35 = FFFE
+R36 = 5386
+R37 = 0001
+R38 = 1517
+R39 = 1116
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FE
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    252.2 V
+VB :    247.5 V
+VC :    247.6 V
+
+------------------ CORRIENTES ------------------
+IA :   11.980 A
+IB :   11.380 A
+IC :   11.690 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.77 Hz
+FB :    59.77 Hz
+FC :    59.83 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.29 °
+VC :   240.50 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   276.95 °
+IB :    37.51 °
+IC :   158.19 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    652.2 W
+PB :    664.6 W
+PC :    489.9 W
+PT :   1976.6 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2933.4 var
+QB :  -2716.6 var
+QC :  -2835.4 var
+QT :  -7967.7 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3004.8 VA
+SB :   2796.6 VA
+SC :   2877.5 VA
+ST :   8691.8 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.23
+PFC :     0.17
+PFT :     0.22
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.4 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 249.1 V
+Corriente Promedio   : 11.68 A
+Potencia Total       : 1806.7 W
+FP Promedio          : 0.203
+Desbalance Voltaje   : 1.24 %
+Desbalance Corriente : 2.60 %
+Carga Motor          : 22.5 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 93.6 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.90 A
+P promedio 1 min : 631.0 W
+FP promedio 1 min: 0.203
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1934.0 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09D8
+R01 = 09A9
+R02 = 09AB
+R03 = 04AB
+R04 = 0475
+R05 = 0494
+R06 = 175E
+R07 = 175F
+R08 = 175F
+R09 = 2E93
+R10 = 5DE2
+R11 = 673D
+R12 = 0A71
+R13 = 3A7B
+R14 = 19E9
+R15 = 0000
+R16 = 1A79
+R17 = 0000
+R18 = 1374
+R19 = 0000
+R20 = 8D6F
+R21 = FFFF
+R22 = 962F
+R23 = FFFF
+R24 = 916C
+R25 = FFFF
+R26 = 75A2
+R27 = 0000
+R28 = 6D3E
+R29 = 0000
+R30 = 706D
+R31 = 0000
+R32 = 3AFE
+R33 = 0000
+R34 = 9BB4
+R35 = FFFE
+R36 = 6947
+R37 = 0001
+R38 = 1618
+R39 = 1110
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FE
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    252.0 V
+VB :    247.3 V
+VC :    247.5 V
+
+------------------ CORRIENTES ------------------
+IA :   11.950 A
+IB :   11.410 A
+IC :   11.720 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.82 Hz
+FB :    59.83 Hz
+FC :    59.83 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.23 °
+VC :   240.34 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   264.29 °
+IB :    26.73 °
+IC :   149.71 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    663.3 W
+PB :    677.7 W
+PC :    498.0 W
+PT :   1510.2 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2932.9 var
+QB :  -2708.9 var
+QC :  -2830.8 var
+QT :  -9121.2 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3011.4 VA
+SB :   2796.6 VA
+SC :   2878.1 VA
+ST :   9248.7 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.22
+PFB :     0.24
+PFC :     0.17
+PFT :     0.16
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.4 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 248.9 V
+Corriente Promedio   : 11.69 A
+Potencia Total       : 1839.0 W
+FP Promedio          : 0.210
+Desbalance Voltaje   : 1.23 %
+Desbalance Corriente : 2.42 %
+Carga Motor          : 22.5 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 93.9 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.90 A
+P promedio 1 min : 631.7 W
+FP promedio 1 min: 0.203
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 1934.0 W
+Max Pot. Aparente : 8756.6 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09E3
+R01 = 09AD
+R02 = 09AE
+R03 = 04C4
+R04 = 04A5
+R05 = 0493
+R06 = 1765
+R07 = 175F
+R08 = 1760
+R09 = 2E96
+R10 = 5DED
+R11 = 65A3
+R12 = 0979
+R13 = 39D1
+R14 = 1A43
+R15 = 0000
+R16 = 1F68
+R17 = 0000
+R18 = 167E
+R19 = 0000
+R20 = 8A4C
+R21 = FFFF
+R22 = 931B
+R23 = FFFF
+R24 = 9293
+R25 = FFFF
+R26 = 78F3
+R27 = 0000
+R28 = 71AB
+R29 = 0000
+R30 = 701C
+R31 = 0000
+R32 = 5814
+R33 = 0000
+R34 = FE4D
+R35 = FFFE
+R36 = 106F
+R37 = 0001
+R38 = 151B
+R39 = 1420
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FE
+R61 = 0000
+R62 = 476D
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    253.1 V
+VB :    247.7 V
+VC :    247.8 V
+
+------------------ CORRIENTES ------------------
+IA :   12.200 A
+IB :   11.890 A
+IC :   11.710 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.89 Hz
+FB :    59.83 Hz
+FC :    59.84 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.26 °
+VC :   240.45 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   260.19 °
+IB :    24.25 °
+IC :   148.01 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    672.3 W
+PB :    804.0 W
+PC :    575.8 W
+PT :   2254.8 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -3013.2 var
+QB :  -2787.7 var
+QC :  -2801.3 var
+QT :  -6597.1 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   3096.3 VA
+SB :   2909.9 VA
+SC :   2870.0 VA
+ST :   6974.3 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.27
+PFC :     0.20
+PFT :     0.32
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.4 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.5 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 249.5 V
+Corriente Promedio   : 11.93 A
+Potencia Total       : 2052.1 W
+FP Promedio          : 0.227
+Desbalance Voltaje   : 1.43 %
+Desbalance Corriente : 2.23 %
+Carga Motor          : 22.9 %
+Arranques            : 1
+Horas Operacion      : 0.05 h
+Health Index         : 93.8 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.92 A
+P promedio 1 min : 639.0 W
+FP promedio 1 min: 0.204
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 1
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 2052.1 W
+Max Pot. Aparente : 8876.2 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
+connection refused
+Error Influx
+
+========== REGISTROS PZEM ==========
+R00 = 09DD
+R01 = 09AD
+R02 = 09AD
+R03 = 04A4
+R04 = 0463
+R05 = 0478
+R06 = 175A
+R07 = 175A
+R08 = 1765
+R09 = 2E90
+R10 = 5DF6
+R11 = 6AC2
+R12 = 10B4
+R13 = 41C6
+R14 = 18EE
+R15 = 0000
+R16 = 1A3A
+R17 = 0000
+R18 = 1365
+R19 = 0000
+R20 = 8EAE
+R21 = FFFF
+R22 = 96D1
+R23 = FFFF
+R24 = 930C
+R25 = FFFF
+R26 = 7465
+R27 = 0000
+R28 = 6CC3
+R29 = 0000
+R30 = 6F07
+R31 = 0000
+R32 = 1BC9
+R33 = 0000
+R34 = 884B
+R35 = FFFE
+R36 = 78C8
+R37 = 0001
+R38 = 1518
+R39 = 1107
+R40 = 0425
+R41 = 0000
+R42 = 0A8F
+R43 = 0000
+R44 = 0B6F
+R45 = 0000
+R46 = 1851
+R47 = 0000
+R48 = 12D5
+R49 = 0000
+R50 = 10A2
+R51 = 0000
+R52 = 18BF
+R53 = 0000
+R54 = 1725
+R55 = 0000
+R56 = 1780
+R57 = 0000
+R58 = 0791
+R59 = 0000
+R60 = 28FE
+R61 = 0000
+R62 = 476E
+R63 = 0000
+===================================
+
+
+============================================================
+                 PZEM-6L24
+============================================================
+Estado : ONLINE
+
+------------------- VOLTAJES -------------------
+VA :    252.5 V
+VB :    247.7 V
+VC :    247.7 V
+
+------------------ CORRIENTES ------------------
+IA :   11.880 A
+IB :   11.230 A
+IC :   11.440 A
+
+----------------- FRECUENCIAS ------------------
+FA :    59.78 Hz
+FB :    59.78 Hz
+FC :    59.89 Hz
+
+-------------- ANGULO VOLTAJE ------------------
+VB :   119.20 °
+VC :   240.54 °
+
+------------- ANGULO CORRIENTE -----------------
+IA :   273.30 °
+IB :    42.76 °
+IC :   168.38 °
+
+------------- POTENCIA ACTIVA ------------------
+PA :    638.2 W
+PB :    671.4 W
+PC :    496.5 W
+PT :    711.3 W
+
+------------ POTENCIA REACTIVA -----------------
+QA :  -2901.0 var
+QB :  -2692.7 var
+QC :  -2789.2 var
+QT :  -9618.1 var
+
+------------ POTENCIA APARENTE -----------------
+SA :   2979.7 VA
+SB :   2784.3 VA
+SC :   2842.3 VA
+ST :   9645.6 VA
+
+------------ FACTOR POTENCIA -------------------
+PFA :     0.21
+PFB :     0.24
+PFC :     0.17
+PFT :     0.07
+
+------------- ENERGIA ACTIVA -------------------
+EA :    106.1 kWh
+EB :    270.3 kWh
+EC :    292.7 kWh
+ET :    193.7 kWh
+
+------------ ENERGIA REACTIVA ------------------
+QEA :    622.5 kVarh
+QEB :    482.1 kVarh
+QEC :    425.8 kVarh
+QET :   1049.4 kVarh
+
+------------ ENERGIA APARENTE ------------------
+SEA :    633.5 kVAh
+SEB :    592.5 kVAh
+SEC :    601.6 kVAh
+SET :   1828.6 kVAh
+
+------------ ANALISIS ----------------
+Voltaje Promedio     : 249.3 V
+Corriente Promedio   : 11.52 A
+Potencia Total       : 1806.1 W
+FP Promedio          : 0.207
+Desbalance Voltaje   : 1.28 %
+Desbalance Corriente : 3.15 %
+Carga Motor          : 22.1 %
+Arranques            : 1
+Horas Operacion      : 0.06 h
+Health Index         : 92.7 %
+
+Running      : SI
+Overload     : NO
+Underload    : NO
+Low PF       : SI
+Phase Loss   : NO
+Over Voltage : NO
+Under Voltage: NO
+
+Estado Motor : 
+----------- DIAGNOSTICO -----------
+Estado       : ADVERTENCIA
+Severidad    : 1
+Diagnostico  : Factor de potencia bajo
+Accion       : Revisar carga o banco de capacitores
+CARGA NORMAL
+Ultimo Evento : Carga normal
+Eventos Totales : 1
+
+
+------------ TENDENCIAS ------------
+I promedio 1 min : 11.90 A
+P promedio 1 min : 632.0 W
+FP promedio 1 min: 0.204
+Tendencia I      : 0
+Tendencia P      : 1
+Tendencia FP     : 0
+----------- RECORDS -----------
+Max Voltaje : 249.9 V
+Min Voltaje : 245.6 V
+Max Corriente : 12.02 A
+Max Potencia : 2052.1 W
+Max Pot. Aparente : 8876.2 VA
+
+------- ESTADISTICAS -------
+Tiempo Detenido   : 0.00 h
+Tiempo Vacio      : 0.00 h
+Tiempo Carga Baja : 0.00 h
+Tiempo Normal     : 0.01 h
+Tiempo Carga Alta : 0.00 h
+Tiempo Sobrecarga : 0.00 h
+Utilizacion       : 100.0 %
+
+-------------- COMUNICACION --------------------
+CRC Errors : 0
+Timeouts   : 0
+Frames     : 0
+============================================================
