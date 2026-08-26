@@ -13,8 +13,8 @@
 //======================================================
 
 #define INFLUXDB_URL      "http://192.168.1.186:8086"
-#define INFLUXDB_TOKEN    "hSXax3KFfpAP3xhgEsCN9LVsXVsM1ygr2JhpmJBp_JWlKnWxr5TRJgCFsZ5T5d6jYmbxo5_y6-sX0umSmD87Yw=="
-#define INFLUXDB_ORG      "306068f2593dbbee"
+#define INFLUXDB_TOKEN    "xx"
+#define INFLUXDB_ORG      "xx"
 #define INFLUXDB_BUCKET   "centrifuga"
 
 //======================================================
