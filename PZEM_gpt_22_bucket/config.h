@@ -6,16 +6,16 @@
 //======================================================
 
 #define WIFI_SSID      "RPK"
-#define WIFI_PASSWORD  "r3pl4st1k4"
+#define WIFI_PASSWORD  "xxx"
 
 //======================================================
 // INFLUXDB
 //======================================================
 
 #define INFLUXDB_URL      "http://192.168.1.247:8086"
-//#define INFLUXDB_TOKEN    "hSXax3KFfpAP3xhgEsCN9LVsXVsM1ygr2JhpmJBp_JWlKnWxr5TRJgCFsZ5T5d6jYmbxo5_y6-sX0umSmD87Yw=="
-#define INFLUXDB_TOKEN    "Kynxmf8YmhsB0YtIEZmUZ5mwQMvPpdh4-giBrFxZhGNpmQmQZTT7kkPGX6r-WofleSPs0QBEpPgRaNqe-7wSQA=="
-#define INFLUXDB_ORG      "96d3ad090d8d4966"
+//#define INFLUXDB_TOKEN    "xxx"
+#define INFLUXDB_TOKEN    "xxx"
+#define INFLUXDB_ORG      "xxx"
 #define INFLUXDB_BUCKET   "centrifuga"
 
 //======================================================
